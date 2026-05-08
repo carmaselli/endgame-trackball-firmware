@@ -69,3 +69,6 @@
 [submodule "zmk-esb-endpoint"]
 	path = zmk-esb-endpoint
 	url = https://github.com/efogdev/zmk-esb-endpoint.git
+[submodule "zmk-feedback-common"]
+	path = zmk-feedback-common
+	url = https://github.com/efogdev/zmk-feedback-common.git
