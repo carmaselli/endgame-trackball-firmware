@@ -1,5 +1,8 @@
 ## Dongle 1k
 
+> [!CAUTION]
+> Please be aware that ZMK Studio does not work over dongle. 
+
 <details>
 <summary>Learn how to assemble</summary>
 
